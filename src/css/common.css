@@ -30,3 +30,18 @@ img {
 .value {
   font-size: 28px;
 }
+button[data-start] {
+  width: 60px;
+  height: 30px;
+  border-radius: 4px;
+}
+button[data-stop] {
+  width: 60px;
+  height: 30px;
+  border-radius: 4px;
+}
+
+input#datetime-picker {
+  height: 30px;
+  border-radius: 4px;
+}
